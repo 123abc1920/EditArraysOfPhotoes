@@ -116,9 +116,10 @@ while True:
                     printDocs()
                     break
             photoes[j] = img1
-            if count % max == 0:
-                progress(count // max)
-            count += 1
+            if max > 1:
+                if count % max == 0:
+                    progress(count // max)
+                count += 1
 
     if c:
         print("output directory: ")
@@ -128,4 +129,7 @@ while True:
             os.mkdir(dir)
         for k in range(len(photoes)):
             saving(photoes[k], dir, k)
+        print(f"Files will be in {dir}")
         break
+print("Press 'Enter' to stop programm...")
+p = input()
