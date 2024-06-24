@@ -19,6 +19,7 @@ def printDocs():
     print()
 
 
+# Filters
 def saving(img, dir, k):
     img.save(dir + str(k) + ".jpg")
 
