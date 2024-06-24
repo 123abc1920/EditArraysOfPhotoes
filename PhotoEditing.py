@@ -19,11 +19,6 @@ def printDocs():
     print()
 
 
-printDocs()
-print("input names of files: ")
-print("(input 0 to finish)")
-
-
 def saving(img, dir, k):
     img.save(dir + str(k) + ".jpg")
 
@@ -67,6 +62,10 @@ def progress(n):
         print(f"\rProgress: |{s}|")
     print(f"\rProgress: |{s}|", end="\r")
 
+
+printDocs()
+print("input names of files: ")
+print("(input 0 to finish)")
 
 name = ""
 photoes = []
