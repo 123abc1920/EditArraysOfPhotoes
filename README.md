@@ -67,9 +67,9 @@
 
     1. [```README.md```](https://github.com/123abc1920/EditArraysOfPhotoes/blob/main/README.md) — manual.
 
-    1. [```PhotoEditing.py```](https://github.com/123abc1920/EditArraysOfPhotoes/blob/main/PhotoEditing.py) — 3OnHp source code.
+    1. [```PhotoEditing.py```](https://github.com/123abc1920/EditArraysOfPhotoes/blob/main/PhotoEditing.py) — source code.
 
-    1. [```PhotoEditing.exe```](https://github.com/123abc1920/EditArraysOfPhotoes/blob/main/PhotoEditing.exe) — B99bjx exe application.
+    1. [```PhotoEditing.exe```](https://github.com/123abc1920/EditArraysOfPhotoes/blob/main/PhotoEditing.exe) — exe application.
 
 
 1. ```ABOUT SOURCE CODE```<a name="ABOUTSOURCECODE"></a> 
